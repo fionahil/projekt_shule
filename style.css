@@ -10,7 +10,7 @@
 
   
   body{
-    background: #555;
+    background: rgb(255, 0, 0);
     display: flex;
     align-items: center;
     justify-content: center;
